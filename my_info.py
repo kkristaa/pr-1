@@ -12,5 +12,5 @@ print('Мій зріст',height)
 print('Чи я студентка',is_student)
 
 #Виконала завдання з зірочкою
-star = int(is_student)
-print('Число з boolean', star)
+star = int(is_student) #Перетворення логічного значення (bool) у числове (int)
+print('Число з boolean', star) #Вивід змінної
